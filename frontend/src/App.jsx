@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div>
-      <div className="App">
+      <div className="h-screen">
         <Layout />
       </div>
     </div>
